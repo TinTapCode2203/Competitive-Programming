@@ -1,0 +1,10 @@
+# Compiled output
+*.out
+*.exe
+*.dSYM/
+
+# OS generated files
+.DS_Store
+
+# Obsidian workspace settings (optional, keeps git clean across devices)
+.obsidian/workspace.json
